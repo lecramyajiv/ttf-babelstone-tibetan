@@ -1,0 +1,15 @@
+# Homepage of fonts
+
+https://www.babelstone.co.uk
+
+
+# Download URL of fonts
+
+https://www.babelstone.co.uk/Fonts/Download/BabelStoneMarchen.ttf 
+https://www.babelstone.co.uk/Fonts/Download/BabelStoneZanabazar.ttf 
+https://www.babelstone.co.uk/Fonts/Download/BabelStoneTibetan.ttf 
+https://www.babelstone.co.uk/Fonts/Download/BabelStoneTibetanSlim.ttf 
+https://www.babelstone.co.uk/Fonts/Download/BabelStonePhagspa_v2.zip 
+https://www.babelstone.co.uk/Fonts/Download/BabelStonePhagspaSeal_v1.ttf
+
+
